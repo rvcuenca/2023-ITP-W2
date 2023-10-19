@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 <p align="center"> <img src="https://raw.githubusercontent.com/rvcuenca/2023-ITP-W2/main/Good%20form%20Application%20Header.png"/></p>
 
 
