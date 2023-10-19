@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://raw.githubusercontent.com/rvcuenca/2023-ITP-W2/main/Good%20form%20Application%20Header.png"/></p>
+
 ![](Good form Application Header.png)
 
 # [ITP-WS2: Installation Guide for R and RStudio](https://rvcuenca.github.io/2023-ITP-W2/)
