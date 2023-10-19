@@ -1,3 +1,5 @@
+![](img/Good form Application Header.png)
+
 # [ITP-WS2: Installation Guide for R and RStudio](https://rvcuenca.github.io/2023-ITP-W2/)
 
 2023 VLR-UOS International Training Program Workshop 2
