@@ -1,11 +1,10 @@
-# <p align="center"> <img src="https://raw.githubusercontent.com/rvcuenca/2023-ITP-W2/main/Good%20form%20Application%20Header.png"/></p>
 
-
-
+<!---- <p align="center"> <img src="https://raw.githubusercontent.com/rvcuenca/2023-ITP-W2/main/Good%20form%20Application%20Header.png"/></p> -->
 <!---# [ITP-WS3: Installation Guide for R and RStudio](https://rvcuenca.github.io/2023-ITP-W2/)-->
+
 # [ITP-WS4: Installation Guide for R and RStudio](https://rvcuenca.github.io/2023-ITP-W2/)
 
-2023 VLR-UOS International Training Program Workshop 2
+2025 VLR-UOS International Training Program Workshop 4
 
 1. [Installation of R, Rtools, and RStudio](https://rvcuenca.github.io/2023-ITP-W2/2023-ITP-W2-Installation-Guide.html)
     1. Downloading necessary executable files.
